@@ -1,1 +1,1 @@
-# jupyter_test binomial
+# jupyter_test
